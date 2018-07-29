@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<usernames>
+  <username value ="3154">
+    <player>
+      <id>1001</id>
+      <name>Tom</name>
+      <level></level>
+      <exp></exp>
+      <hp></hp>
+      <mp></mp>
+      <attack></attack>
+      <defend></defend>
+      <bag>
+        <equipment></equipment>
+      </bag>
+      <task></task>
+    </player>
+   
+  </username>
+</usernames>
